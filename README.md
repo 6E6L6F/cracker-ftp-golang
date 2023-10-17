@@ -18,7 +18,9 @@
 ##
 ## How To Run Cracker?
   switch -s -> Path Of List Servers
+  
   switch -p -> Path Of List Passwords
+  
   switch -u -> Path Of List Usernames
   
     command running : ./cracker_ftp -s servers.txt -u userlist.txt -p passlist.txt
